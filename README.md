@@ -1,1 +1,1 @@
-# space-exploral
+# space-explorer
